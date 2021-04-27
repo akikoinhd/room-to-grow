@@ -42,7 +42,7 @@ What are some suggestions for iterating on this project?
   
   Return more plants upon clicking a "more plants" button or something to that effect
   
-  Make the app 
+  Make the app faster
   
   Full CRUD for users and faves
   
