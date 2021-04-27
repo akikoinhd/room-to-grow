@@ -32,6 +32,7 @@ What are some current issues/roadblocks?
 
   There is a bug in the fetch request in App.js (400 bad request) regarding the user signup.
   
+  Somehow during our merge the png logo has stopped rendering
   
 
 What are some suggestions for iterating on this project?
